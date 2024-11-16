@@ -6,7 +6,7 @@ My solution for this [QR code component challenge](https://www.frontendmentor.io
 
 
 ## Design preview
-![Design preview for the QR code component coding challenge](./preview.jpg)
+![Design preview for the QR code component coding challenge](./design/desktop-design.jpg)
 
 ## Links
 - Solution URL: https://qr-code-component-main-nine-rose.vercel.app/
