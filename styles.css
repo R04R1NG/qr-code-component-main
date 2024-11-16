@@ -64,7 +64,7 @@ footer{
 
 footer a{
     color: hsl(218, 44%, 22%);
-    text-decoration: dotted;
+    text-decoration: underline;
 }
 
 footer a:hover{
