@@ -1,6 +1,6 @@
 
 
-## The challenge
+## The challenge: QR code component solution by Frontend mentor
 
 My solution for this [QR code component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
@@ -10,3 +10,6 @@ My solution for this [QR code component challenge](https://www.frontendmentor.io
 
 ## Links
 - Solution URL: https://qr-code-component-main-nine-rose.vercel.app/
+
+## Author
+- Github : [ROAR](https://github.com/R04R1NG)
